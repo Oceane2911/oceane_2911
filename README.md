@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Oceane Duclos
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to LaMAnu web development and design
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me : ocea.ducl@gmail.com or oceane.duclos@lamanu-student.fr
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
